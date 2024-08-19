@@ -1,11 +1,11 @@
 ################## Hero Area #######################
 hero_area:
-  title : "Design Studio"
+  title : "Instrukcije iz Matematike i Fizike"
   image : "/assets/images/banner/banner-3.png"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.<br>aliqua enim ad minim veniam quis."
+  content : "Središće, Novi Zagreb, Instrukcije za sve osnovne i srednje škole, kao i za studente."
   button:
     enable : true
-    label : "Contact Us"
+    label : "Kontaktirajte me"
     link : "/contact"
 
 ###################### Services #####################
@@ -13,34 +13,31 @@ services:
   enable : true
   bg_image : "/assets/images/bg/feature-bg.png"
   item:
-  - name : "Brand Design"
+  - name : "Instrukcije i pripreme"
     icon : "ti-ruler-pencil"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content : "Pripreme za ispite, pomoć pri učenju, domaći zadaci, uživo 1-1 ili online uz pomoć grafičkog tableta i Skype poziva"
     
-  - name : "Seo & Marketing"
-    icon : "ti-announcement"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  - name : "Državna matura"
+    icon : "ti-pencil-alt"
+    content : "Pripreme za državnu maturu iz matematike i fizike"
     
-  - name : "Creative Design"
-    icon : "ti-palette"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  - name : "Natjecanja"
+    icon : "ti-medall"
+    content : "Pripreme za školska natjecanja iz matematike i fizike"
 
 ################## About ###########################
 about:
   enable : true
-  subtitle : "About Us"
-  title : "We are Design & <br>Development Team."
+  subtitle : "O meni"
+  title : "Profesor matematike i <br>fizike"
   video_thumb : "/assets/images/about/about.jpg"
-  video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.duis aute irure.
+  video_url : ""
+  content : "Najbolja profesorica iz matematike i fizike. Svojim učenicima pruža najbolju moguću pomoć i podršku. Individualni pristup svakom učeniku."
   
-
-  Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
-  "
   button:
     enable : true
-    label : "Purchase now"
-    link : "/pricing"
+    label : "Cjenik"
+    link : "#section-pricing"
 
 
 ###################### Funfacts #########################
@@ -48,21 +45,13 @@ funfacts:
   enable : true
   bg_image : "/assets/images/bg/cta-bg.png"
   item:
-  - name : "work completed"
+  - name : "godina iskustva"
     icon : "ti-briefcase"
-    value : "370"
+    value : "8"
     
-  - name : "new projects"
-    icon : "ti-paint-bucket"
-    value : "450"
-    
-  - name : "Happy customers"
+  - name : "Zadovoljnih učenika"
     icon : "ti-heart"
-    value : "5000"
-    
-  - name : "awards win"
-    icon : "ti-cup"
-    value : "37"
+    value : "300+"
 
 ###################### Skill #############################
 skill:
@@ -87,8 +76,8 @@ skill:
 ######################### Testimonail ####################
 testimonial:
   enable : true
-  subtitle : "testimonials"
-  title : "Our Clients Say"
+  subtitle : "iskustva"
+  title : "Što kažu moji učenici"
   item:
   - name : "Liam Hughes"
     designation : "Manager"

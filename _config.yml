@@ -12,7 +12,7 @@ logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
+footer_content: "Footer opis o meni -> izmjeniti"
 copyright: "dizer. &copy; 2020 All Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
@@ -118,7 +118,7 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: "index"
+  indexpage: "index-2"
 
 tag_page_layout: tag_page
 tag_page_dir: tag
